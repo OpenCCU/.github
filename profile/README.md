@@ -2,8 +2,7 @@
 
 ## Your flexible & cloud-free homematicIP® smart home solution
 
-Open source operating software for running your homematicIP® CCU smart home bridge on lightweight hardware like your own RaspberryPi, an eQ-3 CCU3 or on your own virtualization environments like ProxmoxVE.
-Focuses on providing a cloud-free, lightweight but flexibile solution for running your homematicIP® under your own full control. Powered by large community of homematicIP® enthusiasts and DIY tinkerers.
+Open source operating software for running your homematicIP® CCU smart home bridge on lightweight hardware like your own RaspberryPi, an eQ-3 CCU3 or on your own virtualization environments like ProxmoxVE – or even directly as an Add-on within [Home Assistant](https://www.home-assistant.io/). Focuses on providing a cloud-free, lightweight but flexibile solution for running your homematicIP® under your own full control. Powered by large community of homematicIP® enthusiasts and DIY smart home tinkerers.
 
 - [Get started](https://github.com/OpenCCU/OpenCCU/wiki)
 - [Discussion fora](https://github.com/orgs/OpenCCU/discussions)
