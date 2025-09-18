@@ -1,6 +1,6 @@
 [![OpenCCU - A homematicIP® CCU smart home bridge under your control](https://github.com/OpenCCU/OpenCCU/blob/master/release/logo.png)](https://openccu.de/)
 
-## Your flexible & cloud-free homematicIP® smart home solution
+## Your own flexible & cloud-free homematicIP® smart home solution
 [![Current Release](https://img.shields.io/github/release/OpenCCU/OpenCCU.svg)](https://github.com/OpenCCU/OpenCCU/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/OpenCCU/OpenCCU/latest/total.svg)](https://github.com/OpenCCU/OpenCCU/releases/latest)
 [![DownloadsSnapshots](https://img.shields.io/github/downloads/OpenCCU/OpenCCU/snapshots/total.svg)](https://github.com/OpenCCU/OpenCCU/releases/snapshots)
